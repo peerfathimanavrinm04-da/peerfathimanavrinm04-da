@@ -1,4 +1,4 @@
-#💫 About Me:
+💫## About Me:
 #### 👋 Hi, I'm Peer Fathima Navrin<br><br>📊 Data Analyst passionate about turning raw data into actionable insights, with a focus on the **e-commerce domain**<br><br>🎓 Google Advanced Data Analytics Certified<br><br>🛠️ **Tools I work with:**<br>`SQL` · `Power BI` · `Tableau` · `Excel` · `Python (pandas)`<br><br>🌱 Currently sharpening my Python skills and diving deeper into SQL (cohort analysis, churn modeling)<br><br>🎯 Looking for remote, entry-level Data Analyst opportunities — especially in e-commerce<br><br>📫 Let's connect: [www.linkedin.com/in/peer-fathima-navrin-m0404] · [peerfathimanavrinm04@gmail.com]<br><br>⚡ Fun fact: I debug DAX errors like a detective solving a case 🕵️
 
 
