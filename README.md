@@ -1,5 +1,5 @@
 ### 💫 About Me:
-  <br><br>👋 Hi, I'm Peer Fathima Navrin<br><br>📊 Data Analyst & MIS Executive passionate about turning raw data into actionable insights, with a focus on the e-commerce domain<br><br>🛠️ Tools I work with:<br>`SQL` · `Power BI` · `Tableau` · `Excel` · `Python`<br><br>📈 Experienced in MIS reporting, dashboard automation, and data-driven decision support<br><br>🌱 Currently sharpening my Python skills and diving deeper into SQL (cohort analysis, churn modeling)<br><br>🎯 Looking for remote, entry-level Data Analyst / MIS Executive opportunities — especially in e-commerce<br><br>📫 Let's connect: [LinkedIn] · [email]<br><br>🎓 Google Advanced Data Analytics Certified
+  👋 Hi, I'm Peer Fathima Navrin<br><br>📊 Data Analyst & MIS Executive passionate about turning raw data into actionable insights, with a focus on the e-commerce domain<br><br>🛠️ Tools I work with:<br>`SQL` · `Power BI` · `Tableau` · `Excel` · `Python`<br><br>📈 Experienced in MIS reporting, dashboard automation, and data-driven decision support<br><br>🌱 Currently sharpening my Python skills and diving deeper into SQL (cohort analysis, churn modeling)<br><br>🎯 Looking for remote, entry-level Data Analyst / MIS Executive opportunities — especially in e-commerce<br><br>📫 Let's connect: [LinkedIn] · [email]<br><br>🎓 Google Advanced Data Analytics Certified
 
 
 ### 🌐 Socials:
